@@ -126,9 +126,7 @@ In our experiment, we use 3 ChatGPT accounts for crawling process. Therefore, th
 | `NEW_CHAT_COOR`| This is the coordinate to open new chat window, which helps reduce the execution time of each response after a period of using 1 window. |
 
 ### Setup Video 
-
-<video src="./tutorial_video/config_tutorial.mov" controls="controls" style="max-width: 730px;">
-</video>
+To see the tutorial, please go to `./tutorial_video/config_tutorial.mp4`
 
 ## Usage
 In order use the tool, please follow these steps: 
