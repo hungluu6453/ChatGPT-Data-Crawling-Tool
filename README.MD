@@ -127,7 +127,7 @@ In our experiment, we use 3 ChatGPT accounts for crawling process. Therefore, th
 
 ### Setup Video 
 
-<video src="./tutorial_video/config_tutorial.mp4" controls="controls" style="max-width: 730px;">
+<video src="./tutorial_video/config_tutorial.mov" controls="controls" style="max-width: 730px;">
 </video>
 
 ## Usage
