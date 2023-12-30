@@ -136,7 +136,7 @@ In order use the tool, please follow these steps:
 4. cd to `\src` folder
 5. Run `data_loader.py`
 6. Run `setup.py` in a different terminal
-7. Follow the tutorial in [Setup video](#setup-video), apply for all 3 window, then save new config and close the setup GUI.
+7. Follow the tutorial in [Setup video](#setup-video), apply for all 3 windows, then save new config and close the setup GUI.
 8. Config `src\config\clicker_config.json` file
 9. Run `clicker.py`
     
