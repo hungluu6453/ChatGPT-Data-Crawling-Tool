@@ -123,7 +123,7 @@ In our experiment, we use 3 ChatGPT accounts for crawling process. Therefore, th
 | `GET_COOR`| This is the coordinate of the copy button in ChatGPT window. |
 | `SUB_GET_COOR`| As ChatGPT sometimes will generate more than 1 results, therefore we need another coordinate for the copy button in ChatGPT window. |
 | `CLOSE_REVIEW_COOR`| This is the coordinate for closing review popups of ChatGPT. |
-| `NEW_CHAT_COOR`: This is the coordinate to open new chat window, which helps reduce the execution time of each response after a period of using 1 window. |
+| `NEW_CHAT_COOR`| This is the coordinate to open new chat window, which helps reduce the execution time of each response after a period of using 1 window. |
 
 ### Setup Video 
 
