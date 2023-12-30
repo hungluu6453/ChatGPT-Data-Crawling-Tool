@@ -1,0 +1,6 @@
+pyautogui
+pyperclip
+pandas
+customtkinter
+packaging
+pynput

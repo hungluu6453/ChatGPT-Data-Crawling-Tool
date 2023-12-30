@@ -1,0 +1,5 @@
+{
+    "INPUT_PATH": "./input/input.csv",
+    "PROMPT_PATH": "./prompt/prompt.txt",
+    "RESULT_PATH": "./result/result.csv"
+}

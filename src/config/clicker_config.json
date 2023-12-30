@@ -1,0 +1,5 @@
+{
+    "REQUEST_WAITING_INTERVAL": 15,
+    "SLEEP_TIME": 5,
+    "ERROR_LIMIT": 3
+}
